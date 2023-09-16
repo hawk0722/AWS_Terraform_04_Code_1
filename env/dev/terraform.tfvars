@@ -1,4 +1,4 @@
 
 region  = "ap-northeast-1"
-project = "hawk"
+project = "imura"
 env     = "dev"
